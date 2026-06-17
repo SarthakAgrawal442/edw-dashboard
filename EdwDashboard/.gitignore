@@ -1,0 +1,14 @@
+# Build output
+EdwDashboard/bin/
+EdwDashboard/obj/
+
+# Generated data (reproducible via data_generator.py)
+data/
+
+# Secrets
+appsettings.Development.json
+
+# IDE
+.idea/
+*.user
+.DS_Store

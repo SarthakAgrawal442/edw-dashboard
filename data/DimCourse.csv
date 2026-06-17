@@ -1,0 +1,51 @@
+course_id,course_name,level,credits
+1,Database Systems,100,3
+2,Algorithms,100,3
+3,Data Structures,100,4
+4,Operating Systems,100,3
+5,Computer Networks,100,3
+6,Software Engineering,100,4
+7,Machine Learning,100,3
+8,Artificial Intelligence,100,4
+9,Web Development,100,4
+10,Mobile Development,100,4
+11,Computer Architecture,100,3
+12,Discrete Mathematics,100,4
+13,Linear Algebra,100,3
+14,Calculus I,200,4
+15,Statistics,200,3
+16,Data Mining,200,4
+17,Cloud Computing,200,4
+18,Cybersecurity,200,3
+19,Computer Graphics,200,3
+20,Compiler Design,200,3
+21,Object-Oriented Programming,200,3
+22,Functional Programming,200,4
+23,System Design,200,3
+24,Software Testing,200,3
+25,Project Management,200,3
+26,Human-Computer Interaction,200,4
+27,Embedded Systems,300,4
+28,Digital Logic,300,4
+29,Information Retrieval,300,4
+30,Natural Language Processing,300,3
+31,Computer Vision,300,4
+32,Parallel Computing,300,4
+33,Distributed Systems,300,3
+34,Big Data Analytics,300,4
+35,DevOps,300,3
+36,Network Security,300,3
+37,Blockchain Technology,300,3
+38,IoT Systems,300,3
+39,Robotics,300,4
+40,Game Development,400,4
+41,Ethics in Computing,400,4
+42,Technical Writing,400,3
+43,Introduction to Programming,400,4
+44,Data Visualization,400,3
+45,Business Intelligence,400,3
+46,Requirements Engineering,400,3
+47,Software Architecture,400,4
+48,Advanced Databases,400,4
+49,Deep Learning,400,4
+50,Quantum Computing,400,3
